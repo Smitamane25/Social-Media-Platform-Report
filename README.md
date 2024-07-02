@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-This dashboard helps to track daily use of social media platforms. It helps to know which platform is mostly usrd by users on daily basis through different visualizations.
+This dashboard helps to track daily use of social media platforms. It helps to know which platform is mostly used by users on daily basis through different visualizations.
 
 ### Steps followed 
 
