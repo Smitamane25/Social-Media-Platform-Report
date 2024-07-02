@@ -12,19 +12,24 @@ This dashboard helps to track daily use of social media platforms. It helps to k
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present.
 - Step 5 : Check the datatype of all the columns.
-- Step 6 : To show total user as per age,go to insert and insert pivot table in new sheet and then choose fields to add to report, add "Age" field in row and "User_ID"(Count) field in values then go to pivot table analyze and insert line pivot chart. 
+- Step 6 : To show total user as per age,go to insert and insert pivot table in new sheet and then choose fields to add to report, add "Age" field in row and "User_ID"(Count) field in values then go to pivot table analyze and insert line pivot chart.
+  
 ![Screenshot 2024-07-02 101143](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/c515d48e-cf16-489e-8271-880c3484c2f1)
 
 - Step 7 : To show no of users on different platforms,go to insert and insert pivot table in new sheet and then choose fields to add to report, add "platform" field in row and "User_ID"(Count) field in values and then go to pivot table analyze and insert pie pivot chart.
+  
 ![Screenshot 2024-07-02 102240](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/6aee2583-48ba-49b4-852b-a9e1708a42ea)
 
 - Step 8 : To show dominant emotions by users, go to insert and insert pivot table in new sheet and then choose fields to add to report, add "platform" field in row and "User_ID"(Count) field in values and then go to pivot table analyze and insert pie pivot chart.
+  
 ![Screenshot 2024-07-02 102302](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/91a9e18a-5484-49ad-b1c2-10caeda8cff8)
 
 - Step 9 : To show gender wise users, go to insert and insert pivot table in new sheet and then choose fields to add to report, add "gender" field in row and "User_ID"(Count) field in values and then go to pivot table analyze and insert pie pivot chart.
+  
 ![Screenshot 2024-07-02 103421](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/048d2cfe-0ed0-414f-aaf8-9ac5cea72538)
 
 - Step 10 : To show different fields use on platform, go to insert and insert pivot table in new sheet and then choose fields to add to report,then go to pivot table analyze and insert bar pivot chart.
+  
 ![Screenshot 2024-07-02 103619](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/c0b58b66-9549-4027-a85d-8bf5dc2a6291)
  
  - Step 17 : The report was then published.
